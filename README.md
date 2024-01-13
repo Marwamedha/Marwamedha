@@ -1,6 +1,4 @@
-@@ -1,9 +1,5 @@
 ### 👋 Hi, I’m Marwa Medhat 
-ines (30 sloc)  2.75 KB
 
 <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Marwa Medhat. Data Analyst" src="./assets/gh-readme-header.png" /></a></p>
 
