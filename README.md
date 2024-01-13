@@ -4,7 +4,6 @@
 
 <br />
 ## Profile
-
 I am motivated with a strong passion for detecting underlying patterns and trends out of business and data analysis. Highly educated, with a Master's degree in business analytics.♥ ✨
 
 - 👀 I’m interested in Data Analysis, Data Science and  Business Intelligence
