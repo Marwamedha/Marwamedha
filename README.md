@@ -1,7 +1,7 @@
-👋 Hi, I’m Marwan Diab
+👋 Hi, I’m Marwa Medhat
 ines (30 sloc) 2.75 KB
 
-Hello, I'm Marwan Diab. Data Analyst
+Hello, I'm Marwa Medhat. Data Analyst
 
 
 ## Profile A Data analyst with a track record of analysing data and turning it into useful information and insights 📊. I've worked with a variety of tools (Power Bi and Excel) and languages (Python and SQL).✨ These abilities have been put to use in marketing, sales, forecasting, competitive analysis, and A/B testing projects. I'm excited to put my skills to use in an environment that provides data solutions and encourages everyone to achieve.♥ ✨
@@ -11,34 +11,23 @@ A Data analyst with a track record of analysing data and turning it into useful 
 👀 I’m interested in Data Analysis , Data Science and Business Intelligence
 🌱 I’m currently learning Data Analyst
 📫 reach me
-kaggle: https://www.kaggle.com/marwandiab
-LinkedIn: https://www.linkedin.com/in/marwan-xdiab
-PowerBI portfolio : https://www.novypro.com/profile_projects/marwan-diab
+LinkedIn: https://www.linkedin.com/in/marwa-medhat-342899219
+PowerBI portfolio : https://www.novypro.com/project/sales-distribution-dashboard
 ⚡ My Skills
 Concepts
 Data Analysis
 Data Warehouse
 Data Modeling
-Web Scraping (Selenium and BeautifulSoup )
 Machine Learning
 Statistics
-AB Testing
-Cloud Computing (Microsoft Azure and IBM Cloud)
 Exploratory Data
 Project Management
 Programming Languages
 Python
-C#
-C/C++
 Databases
 Microsoft SQL Server
 Oracle
-IBM Db2
-PostgreSQL
-PL/SQL
-T-SQL
 Business intelligence and ETL tools
-SSIS, SSAS, SSRS, MDX
 DAX
 Power Query
 Power Pivot
