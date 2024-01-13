@@ -1,10 +1,7 @@
-### 👋 Hi, I’m Marwa Medhat 
+## 👋 Hi, I’m Marwa Medhat 
 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Marwa Medhat. Data Analyst" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
 ## Profile
-I am motivated with a strong passion for detecting underlying patterns and trends out of business and data analysis. Highly educated, with a Master's degree in business analytics.♥ ✨
+A Data analyst with a a strong passion for detecting underlying patterns and trends out of business and data analysis. Highly educated, with a Master's degree in business analytics.♥ ✨
 
 - 👀 I’m interested in Data Analysis, Data Science and  Business Intelligence
 
