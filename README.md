@@ -4,10 +4,11 @@
 
 <br />
 ## Profile
-Motivated with a strong passion for detecting underlying patterns and trends out of business and data analysis. Highly educated, with a Master's degree in business analytics.♥ ✨
+
+I am motivated with a strong passion for detecting underlying patterns and trends out of business and data analysis. Highly educated, with a Master's degree in business analytics.♥ ✨
 
 - 👀 I’m interested in Data Analysis, Data Science and  Business Intelligence
-- 🌱 I’m currently learning Data Analyst
+
 ## 📫 reach me
   - LinkedIn: https://www.linkedin.com/in/marwa-medhat-342899219
   - PowerBI portfolio:https://www.novypro.com/project/sales-distribution-dashboard
