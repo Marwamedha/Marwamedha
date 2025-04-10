@@ -1,35 +1,35 @@
 ## 👋 Hi, I’m Marwa Medhat 
 
 ## Profile
-A Data analyst with a a strong passion for detecting underlying patterns and trends out of business and data analysis. Highly educated, with a Master's degree in business analytics.♥ ✨
+A Data Engineer  with a a strong passion for detecting underlying patterns and trends out of business and data analysis. Highly educated, with a Master's degree in Big data analytics .♥ ✨
 
-- 👀 I’m interested in Data Analysis, Data Science and  Business Intelligence
+- 👀 I’m interested in Data Analysis, Data Engineering and  Business Intelligence
 
 ## 📫 reach me
   - LinkedIn: https://www.linkedin.com/in/marwa-medhat-342899219
   - PowerBI portfolio:https://www.novypro.com/project/sales-distribution-dashboard
 ## ⚡ My Skills
 ### Concepts 
-  - Data Analysis
+  - Big Data 
   - Data Modeling
-  - Data Warehouse
-  - Machine Learning
-  - Statistics
+  - Data Warehousing 
+  - ETl 
+  - Data Transformation
   - Exploratory Data
   - Project Management
 ### Programming Languages
-  - Python
+  -SQL  -Python  -C   -XMl  
 ### Databases
   - Microsoft SQL Server
   - Oracle
+  - My Sql 
 ### Business intelligence and ETL tools 
-  - DAX
-  - Power Query
-  - Power Pivot
-### Reporting and Visualization Tools
+  -Informatica Power Center
+### Reporting and Visualization Tools 
+  - Microsoft Power BI
   - Microsoft Excel
-  - Microsoft Power BI 
   - Tableau
-  - IBM Cognos
+### Cloud Computing 
+ -Certified Aws Cloud 
 ### Personal skills 
-- (Analytical skills, Presentation skills, Problem-solving, Research, Teamwork, ecision Making , Communication Skills, Reliable Interpersonal Skills .)
+- (Analytical skills, Presentation skills, Problem-solving, Research, Teamwork, Decision Making , Communication Skills, Reliable Interpersonal Skills .)
