@@ -20,6 +20,9 @@ A Cloud Data Engineer  with a strong passion for detecting underlying patterns a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehive/apachehive-original.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Informatica_Logo.png" width="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="80"/>
 </p>
 
 ### Concepts 
@@ -29,21 +32,4 @@ A Cloud Data Engineer  with a strong passion for detecting underlying patterns a
   - ETl 
   - Data Transformation
   - Exploratory Data
-  - Project Management
-### Programming Languages
-  -SQL  -Python  -C   -XMl  
-### Databases
-  - Microsoft SQL Server
-  - Oracle
-  - My Sql 
-### Business intelligence and ETL tools 
-  -Informatica Power Center  -IBM DataStage 
-### Reporting and Visualization Tools 
-  - Microsoft Power BI
-  - Microsoft Excel
-  - Tableau
-### Cloud Computing 
- -Certified Aws Cloud -Azure 
- 
-### Personal skills 
-- (Analytical skills, Presentation skills, Problem-solving, Research, Teamwork, Decision Making , Communication Skills, Reliable Interpersonal Skills .)
+  
