@@ -45,21 +45,6 @@ A Cloud Data Engineer  with a strong passion for detecting underlying patterns a
 
 </p>
 
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehive/apachehive-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Informatica_Logo.png" width="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="80"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="80"/>
-</p>
-
 ### Concepts 
   - Data Warehousing 
   - Big Data 
