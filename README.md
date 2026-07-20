@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Marwa Medhat 
 
 ## Profile
-A Cloud Data Engineer  with a strong passion for detecting underlying patterns and trends, with over 3 years of experience turning raw data into meaningful insights. I work with modern tools, including Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake, and the Data Lakehouse, to build efficient data pipelines and solutions in the cloud. 
+A Big Data Engineer  with a strong passion for detecting underlying patterns and trends, with over 3 years of experience turning raw data into meaningful insights. I work with modern tools, including Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake, and the Data Lakehouse, to build efficient data pipelines and solutions in the cloud. 
 
 - 👀 I’m interested in Data Integration, Data Engineering, and  Business Intelligence
 
