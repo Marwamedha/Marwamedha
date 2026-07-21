@@ -55,17 +55,14 @@ My interests include **Big Data, Data Warehousing, ETL Development, Databricks, 
 * Hadoop
 * Kafka
 * Airflow
-* dbt
+* Nifi
 * SQL
 * Oracle
 * Snowflake
-* Redshift
 * Power BI
 * Tableau
 * Informatica
 * IBM DataStage
-* Talend
-
 ---
 
 ### 🎯 Current Focus
