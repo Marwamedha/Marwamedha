@@ -56,7 +56,7 @@ A Big Data Engineer  with a strong passion for detecting underlying patterns and
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi 👋, I'm Marwa Medhat
 
-<img align="right" alt="Data Engineer" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 
 ### Data Engineer | Big Data Enthusiast | AI & Analytics Explorer
 
@@ -117,18 +117,6 @@ My interests include **Big Data, Data Warehousing, ETL Development, Databricks, 
 * Informatica
 * IBM DataStage
 * Talend
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Marwamedha&show_icons=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Marwamedha" />
-</p>
 
 ---
 
